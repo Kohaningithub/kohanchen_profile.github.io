@@ -76,13 +76,13 @@ h1 {
 
 /* ID selectors for text colors */
 #intro {
-    color: #3498db; 
+    color: #2f85bd; 
     font-size: 1.1rem;
     margin-bottom: 15px;
 }
 
 #design-skill {
-    color: #7f8c8d; 
+    color: #2c3e50; 
 }
 
 /* Skills section styles */
@@ -121,7 +121,7 @@ h1 {
 
 /* Class selector for text colors */
 .skill-description {
-    color: #7f8c8d; 
+    color: #2c3e50; 
 }
 
 /* Contact section styles */
@@ -321,4 +321,14 @@ footer {
     .methods-grid {
         grid-template-columns: 1fr;
     }
+}
+
+.skill-list {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.skill-list li {
+    margin-bottom: 8px;
+    line-height: 1.4;
 }
