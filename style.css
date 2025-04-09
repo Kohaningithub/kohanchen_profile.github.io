@@ -76,7 +76,7 @@ h1 {
 
 /* ID selectors for text colors */
 #intro {
-    color: #2f85bd; 
+    color: #2d709d; 
     font-size: 1.1rem;
     margin-bottom: 15px;
 }
@@ -121,7 +121,7 @@ h1 {
 
 /* Class selector for text colors */
 .skill-description {
-    color: #2c3e50; 
+    color: #555; 
 }
 
 /* Contact section styles */
@@ -330,5 +330,7 @@ footer {
 
 .skill-list li {
     margin-bottom: 8px;
-    line-height: 1.4;
+    line-height: 1.2;
+    color: #555;
+    font-size: 0.95rem;
 }
